@@ -8,7 +8,7 @@ These are some of the technologies I'm working with right now:
 * Linux
 * PostgreSQL
                                                                
-I'm always happy to discover and learn other areas, languages and tools.
+I'm always happy to discover and study other areas, languages and tools.
 Specifically interested in studying and working with Artificial Intelligence and Data Science in the future.
                                                                   
 
