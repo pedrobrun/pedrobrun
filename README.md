@@ -3,10 +3,10 @@
 I currently work as a **Full Stack Mobile Developer**.
 
 These are some of the **technologies I'm working with right now**: 
-* **C# (.NET Core / .NET 5)
-* **Flutter / Dart
-* **Linux
-* **PostgreSQL
+* C# (.NET Core / .NET 5)
+* Flutter / Dart
+* Linux
+* PostgreSQL
                                                                
 I'm always happy to discover and study other areas, languages and tools.
 Specifically interested in studying and working with **Artificial Intelligence** and **Data Science** in the future.
