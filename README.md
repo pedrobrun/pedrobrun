@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 I currently work as a **Full Stack Mobile Developer**.
-
-These are some of the **technologies I'm working with right now**: 
-* C# (.NET Core / .NET 5)
-* Flutter / Dart
-* Linux
-* PostgreSQL
                                                                   
 
 
