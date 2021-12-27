@@ -2,7 +2,7 @@
 
 I currently work as a **Full Stack Mobile Developer**.
 <br />
-Right now I'm mainly working with 🐦 Flutter, 🟢 Node.js and 🔵 Typescript.
+Right now I'm mainly working with Flutter, Node.js and Typescript.
                                                                   
 
 <!--
