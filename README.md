@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I currently work as a **Full-Stack Mobile Developer**.
+I'm a Full-Stack Engineer working with Blockchain ecosystem, building DApps.
 <br />
-Right now my stack consists mainly on **Flutter**, **Node.js** and **Typescript**.
+<br />
+Right now my stack consists mainly on **Node.js**, **React, Next.js**, **Typescript and Blockchain/web3 related libs.
                                                                   
 
 <!--
